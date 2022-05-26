@@ -30,6 +30,5 @@ min_git_branch()
 
 PROMPT='$(min_current_dir)$(min_git_branch)$(min_prompt)'
 
-RPROMPT='$(min_git_branch)'
 
 
