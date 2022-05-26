@@ -37,7 +37,9 @@ source ~/to/the/theme/storage/minzsh.zsh-theme
 
 ![](/images/preview.png)
 
-- **iTerm2** Nord Theme, Minimal Window Mode, Line spacing:124
+![](/images/preview-rosepine.png)
+
+- **iTerm2** Nord Theme/Rose Pine, Minimal Window Mode, Line spacing:124
 - **Font** Martian Mono
 
 ## Configuration
