@@ -17,12 +17,14 @@ Ultra minimal native zsh theme
 
 Just curl/wget it to some location and then source it from your `.zshrc`
 
+replace `~/to/the/theme/storage/minzsh.zsh-theme` with wherever you want to store the theme file
+
 ```bash
-curl https://raw.githubusercontent.com/barelyhuman/minzsh/main/minzsh.zsh-theme -Lo to/the/theme/storage/minzsh.zsh-theme
+curl https://raw.githubusercontent.com/barelyhuman/minzsh/main/minzsh.zsh-theme -Lo ~/to/the/theme/storage/minzsh.zsh-theme
 ```
 
 ```bash
-wget -O to/the/theme/storage/minzsh.zsh-theme https://raw.githubusercontent.com/barelyhuman/minzsh/main/minzsh.zsh-theme
+wget -O ~/to/the/theme/storage/minzsh.zsh-theme https://raw.githubusercontent.com/barelyhuman/minzsh/main/minzsh.zsh-theme
 ```
 
 Then in your `~/.zshrc` just source it
